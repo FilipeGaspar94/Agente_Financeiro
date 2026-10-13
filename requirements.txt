@@ -3,3 +3,4 @@ pandas>=2.0.0
 yfinance>=0.2.40
 google-genai
 tenacity
+tabulate
